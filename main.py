@@ -13,7 +13,7 @@ import hashlib
 import os
 import sys
 
-EXPECTED_SHA256 = "ea91d73168f86f24abfd7393aa625f00a91e9d6f4c27c609c6eee4f93cedf77c"
+EXPECTED_SHA256 = "888675e7c97f3134c622d0273a4e367285b2afc895e721ce338e8045e39b7da5"
 
 
 def main():

@@ -12,7 +12,7 @@
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-The image is pre-rendered by `render.py` (Python + Pillow) from `data/stories.json`; re-run `python3 render.py` to regenerate `entry.png` deterministically.
+The image is pre-rendered by `render-v2.py` (Python + Pillow) from `data/stories-v2.json`; re-run `python3 render-v2.py` to regenerate `entry.png` deterministically. (v1 used `render.py` + `data/stories.json`; both remain in the repo as archive.)
 
 ---
 
